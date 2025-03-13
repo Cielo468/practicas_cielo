@@ -1,0 +1,71 @@
+/*documento css*/
+
+body {background-color: rgb(101, 5, 5);
+margin: 6%;}
+
+.cabecera {text-align: center;
+          left: 20px;
+          padding: 6px 0px;}
+
+table {background-color: rgb(147, 183, 210);
+     font-size: 14px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin: auto;}
+
+
+.thead {background-color: rgb(255, 255, 255);}
+
+th { font-family: "Big Shoulders Stencil", sans-serif;
+   font-size: 28px;
+   padding: 20px 15px;
+   font-weight: 700;
+   text-transform: uppercase;
+   color: rgb(0, 7, 137);}
+
+   td {padding: 15px;
+   border-bottom: solid 1px ;
+   font-family: "Roboto Flex", sans-serif;}
+
+h1{ font-family: "Big Shoulders Stencil", sans-serif;
+font-size:80px;
+text-align: center;
+color: aliceblue;}
+
+h2 { font-family: "Big Shoulders Stencil", sans-serif;
+     text-align: center;
+   
+    color: aliceblue;
+   margin: 60px;}
+
+p {font-family: "Roboto Flex", sans-serif;
+   margin:35px auto;
+   color: aliceblue;
+text-align: center;}
+
+.par {font-family: "Roboto Flex", sans-serif;
+   margin:35px auto;
+   color: aliceblue;
+text-align:left;}
+
+.peque img { width: 600px;
+   height: 350px;
+   border-collapse: collapse;
+   margin: auto 30% ;
+image-resolution:100%;}
+
+.yg img {width: 1000px;
+   height: 900px;
+   border-collapse: collapse;
+   margin: auto 5.5% ;
+   margin: auto 180px auto;}
+
+.yb {width: 400px;
+   margin: 0%;}
+
+.video { width: 80%;
+      margin: auto 3.5%}
+       
+.pie{ background-color: rgb(143, 203, 243);
+    font-family: "Roboto Flex", sans-serif; ;
+     text-align: center;}
